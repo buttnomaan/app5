@@ -1,2 +1,5 @@
 hi
 hi2hi3
+\n
+
+hi4
